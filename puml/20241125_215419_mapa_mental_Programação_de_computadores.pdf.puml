@@ -1,0 +1,61 @@
+@startmindmap
+* Programação de Computadores
+** Programação
+*** Processo
+**** Escrita
+**** Teste
+**** Manutenção
+*** Linguagem
+**** Diferentes linguagens
+**** Programação em máquina
+*** Natureza
+**** Arte
+**** Ciência
+**** Matemática
+**** Engenharia
+**** Campo novo
+** Algoritmos
+*** Definição
+**** Sequência lógica
+**** Passos finitos
+**** Resolução de problemas
+*** Exemplos
+**** Receitas
+**** Programas abstratos
+*** Relação com programas
+**** Programa = algoritmo concretizado
+**** Descrição passo a passo
+** Engenharia de Software
+*** Passos
+**** Necessidade
+**** Planejamento
+**** Escrita
+**** Compilação
+**** Teste
+*** Conceitos
+**** Codificação
+**** Programação
+**** Coder
+** Aprendizagem da Programação
+*** Desafios
+**** Dificuldade de aprendizagem
+*** Soluções
+**** Sistemas de apoio
+**** Visualização imediata
+**** Robótica
+**** Gamificação
+**** Motivação
+** História
+*** Heron de Alexandria
+**** Teatros automatizados
+**** Programação análoga
+*** Ada Lovelace
+**** Primeira programadora
+**** Máquina analítica
+*** Wallace J. Eckert
+**** Programador completo
+**** Linguagem matemática
+*** Alan Turing
+**** Pai da computação
+**** Máquina Enigma
+@endmindmap
