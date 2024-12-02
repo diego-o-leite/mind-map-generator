@@ -1,13 +1,13 @@
 # Mind Map Generator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/teste?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/assets?style=for-the-badge)
 
 <img src="img/cover_image.png" alt="What does this project do?">
 
 
 The Mind Map Generator allows you to automatically convert PDF files into mind maps in batches using Google's Generative AI (Gemini).
 
-## Visão geral da arquitetura
+## Architecture overview
 
 <img src="img/architecture overview.png" alt="Exemplo imagem">
 
@@ -34,13 +34,15 @@ The Mind Map Generator allows you to automatically convert PDF files into mind m
 
 ## 🎬 Usage 🪄
 
-1. Place your PDF files in the designated folder.
-2. Run the Jupyter Notebook script to convert the PDFs into mind maps.
-3. The generated mind maps will be saved in the output folder.
+1. Place your PDF files in the folder 'inputs' of the repository 'mind-map-generator':
+![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/gifs/placing_pdfs_in_folder_inputs.gif)
+1. Run the Jupyter Notebook script to convert the PDFs into mind maps.
+
+1. The generated mind maps will be saved in the output folder.
 
 ## 🤝 Contribution 
 
-Currently, we are not accepting external contributions.
+Currently, we are not able to work on external contributions.
 
 ## 🧑‍🤝‍🧑 Support and Community
 
