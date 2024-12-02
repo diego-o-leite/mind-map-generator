@@ -40,6 +40,23 @@ The Mind Map Generator allows you to automatically convert PDF files into mind m
 
 1. The generated mind maps will be saved in the output folder.
 
+## 💡 Potential features
+
+1. Accept other types of text documents like .txt and .docx as inputs.
+1. Divide inputs into smaller parts to create more comprehensive mind maps.
+1. Offer the user options for adjustments in the prompt (e.g., requesting the mind map in another language).
+1. Enable users to regenerate mind maps after editing the PUML source file.
+1. Offer a more user-friendly interface to execute  commands.
+1. Provide Mermaid file export option for mind maps, enabling import into tools like Excalidraw.
+
+## 🚧 Cautions and Tips
+
+1. Large PDFs (e.g., over 20 pages) can make it challenging for the A.I. to provide a more satisfactory response. If this occurs:
+   1. Attempt to create an initial map with the entire PDF to get an overview.
+   1. If the initial attempt is unsuccessful or too slow, divide the PDF into smaller sections (e.g., 20 pages each) and generate separate mind maps for each part using the Mind Map Generator.
+   1. Use a PDF editor to divide the document.
+
+
 ## 🤝 Contribution 
 
 Currently, we are not able to work on external contributions.
