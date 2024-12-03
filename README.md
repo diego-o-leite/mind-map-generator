@@ -2,14 +2,14 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/assets?style=for-the-badge)
 
-<img src="img/cover_image.png" alt="What does this project do?">
+![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/cover_image.png)
 
 
 The Mind Map Generator allows you to automatically convert PDF files into mind maps in batches using Google's Generative AI (Gemini).
 
 ## Architecture overview
 
-<img src="img/architecture overview.png" alt="Exemplo imagem">
+![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/architecture%20overview.png)
 
 ## 🔧 Installation 🪛
 
@@ -19,9 +19,18 @@ The Mind Map Generator allows you to automatically convert PDF files into mind m
 
    - `cd mind-map-generator`
 
-1. **Install the dependencies:**
+1. 1. **Install the dependencies:**
    
-   - `pip install google-generativeai python-dotenv IPython`
+   Run the following command to install all necessary packages:
+
+      - `pip install google-generativeai python-dotenv IPython tenacity ipywidgets`
+
+   This command installs:
+   - `google-generativeai`: For interacting with Google's generative AI models
+   - `python-dotenv`: For loading environment variables
+   - `IPython`: For enhanced interactive Python experiences
+   - `tenacity`: For implementing retry logic
+   - `ipywidgets`: For creating interactive widgets in Jupyter notebooks
 
 1. **Configure the API key:**
    1. [Check here how you can create a key with a few clicks in Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key#windows)
