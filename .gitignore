@@ -1,4 +1,6 @@
 keys.env
 gitignored/
-outputs/
-inputs/
+/outputs/*
+!/outputs/gitkeep
+/inputs/*
+!/inputs/gitkeep
