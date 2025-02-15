@@ -1,17 +1,19 @@
-# Mind Map Generator
+# 📚📄Mind Map Generator💭🗺️
 
-![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/assets?style=for-the-badge)
+![Country Badge](https://img.shields.io/badge/COUNTRY-gray?style=for-the-badge&labelColor=gray&logoWidth=0)
+<img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" height="28" /> ![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/assets?style=for-the-badge) 
+
 
 ![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/cover_image.png)
 
 
-The Mind Map Generator allows you to automatically convert PDF files into mind maps in batches using Google's Generative AI (Gemini).
+The Mind Map Generator allows you to automatically convert PDF files into mind maps in batches using Google's Generative AI gemini-1.5-flash.
 
-## Architecture overview
+## 🏛️Architecture overview📐
 
 ![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/architecture%20overview.png)
 
-## 🔧 Installation 🪛
+## 🔧Installation🪛
 
 1. **Clone the repository:**
    
@@ -41,24 +43,29 @@ The Mind Map Generator allows you to automatically convert PDF files into mind m
 
 1. **Ensure Java is installed.**
 
-## 🎬 Usage 🪄
 
-1. Place your PDF files in the folder 'inputs' of the repository 'mind-map-generator':
-![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/gifs/placing_pdfs_in_folder_inputs.gif)
-1. Run the Jupyter Notebook script to convert the PDFs into mind maps.
+## 📖Quick Usage Guide⚡
 
-1. The generated mind maps will be saved in the output folder.
+🔗 **[Access the Quick Usage Guide (PDF)](https://diego-o-leite.github.io/assets/mind-map-generator/documents/usage_guide.pdf)**
 
-## 💡 Potential features
+📌 This guide includes:
+- Overview
+- Security configuration
+- The ‘inputs’ folder
+- Mind maps generation
+- The ‘outputs’ folder
+- Manual adjustment
+
+
+## 💡Ideas for Future Implementation🔮
 
 1. Accept other types of text documents like .txt and .docx as inputs.
 1. Divide inputs into smaller parts to create more comprehensive mind maps.
 1. Offer the user options for adjustments in the prompt (e.g., requesting the mind map in another language).
-1. Enable users to regenerate mind maps after editing the PUML source file.
 1. Offer a more user-friendly interface to execute  commands.
 1. Provide Mermaid file export option for mind maps, enabling import into tools like Excalidraw.
 
-## 🚧 Cautions and Tips
+## 🚧Cautions and Tips⚠️
 
 1. Large PDFs (e.g., over 20 pages) can make it challenging for the A.I. to provide a more satisfactory response. If this occurs:
    1. Attempt to create an initial map with the entire PDF to get an overview.
@@ -66,11 +73,11 @@ The Mind Map Generator allows you to automatically convert PDF files into mind m
    1. Use a PDF editor to divide the document.
 
 
-## 🤝 Contribution 
+## ❗Contribution🤝
 
-Currently, we are not able to work on external contributions.
+At the moment, we may not be able to dedicate time to external contributions.
 
-## 🧑‍🤝‍🧑 Support and Community
+## 🤗Support and Community🧩
 
 [GitHub issues](https://github.com/diego-o-leite/assets/issues/)
 
