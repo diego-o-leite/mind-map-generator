@@ -41,7 +41,7 @@ Your PDFs are first converted into .puml files using Jupyter Notebook and Google
    - `ipywidgets`: For creating interactive widgets in Jupyter notebooks
 
 1. **Configure the API key:**
-   1. [Check here how you can create a key with a few clicks in Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key#windows)
+   1. [Check here how you can create a key with a few clicks in Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key)
    1. Follow the instructions in the [`example_keys.env`](example_keys.env) file to set up your API key securely.
 
 1. **Install Jupyter:**
@@ -52,7 +52,7 @@ Your PDFs are first converted into .puml files using Jupyter Notebook and Google
 
 ## 📖Quick Usage Guide⚡
 
-🔗 **[Access the Quick Usage Guide (PDF)](https://diego-o-leite.github.io/assets/mind-map-generator/documents/usage_guide.pdf)**
+🔗 <strong><a href="https://diego-o-leite.github.io/assets/mind-map-generator/documents/usage_guide.pdf"  rel="noopener noreferrer">Access the Quick Usage Guide (PDF)</a></strong>
 
 📌 This guide includes:
 - Overview
