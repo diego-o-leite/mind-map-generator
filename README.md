@@ -1,7 +1,7 @@
 # 📚📄Mind Map Generator💭🗺️
 
 ![Country Badge](https://img.shields.io/badge/COUNTRY-gray?style=for-the-badge&labelColor=gray&logoWidth=0)
-<img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" height="28" /> ![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/assets?style=for-the-badge) 
+<img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" height="28" /> ![GitHub repo size](https://img.shields.io/github/repo-size/diego-o-leite/mind-map-generator?style=for-the-badge) 
 
 
 ![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/cover_image.png)
@@ -81,7 +81,7 @@ At the moment, we may not be able to dedicate time to external contributions.
 
 ## 🤗Support and Community🧩
 
-[GitHub issues](https://github.com/diego-o-leite/assets/issues/)
+[GitHub issues](https://github.com/diego-o-leite/mind-map-generator/issues/)
 
 ## License
 
