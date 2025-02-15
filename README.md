@@ -52,7 +52,7 @@ Your PDFs are first converted into .puml files using Jupyter Notebook and Google
 
 ## 📖Quick Usage Guide⚡
 
-🔗 <strong><a href="https://diego-o-leite.github.io/assets/mind-map-generator/documents/usage_guide.pdf"  rel="noopener noreferrer">Access the Quick Usage Guide (PDF)</a></strong>
+🔗 <strong><a href="https://diego-o-leite.github.io/assets/mind-map-generator/docs/usage_guide.pdf"  rel="noopener noreferrer">Access the Quick Usage Guide (PDF)</a></strong>
 
 📌 This guide includes:
 - Overview
