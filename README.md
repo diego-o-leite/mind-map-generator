@@ -7,7 +7,9 @@
 ![](https://raw.githubusercontent.com/diego-o-leite/assets/main/mind-map-generator/img/cover_image.png)
 
 
-The Mind Map Generator allows you to automatically convert PDF files into mind maps in batches using Google's Generative AI gemini-1.5-flash.
+The Mind Map Generator enables batch conversion of PDF files into mind maps.
+
+Your PDFs are first converted into .puml files using Jupyter Notebook and Google's Generative AI (Gemini-1.5-Flash). Then, the .puml files are rendered into .png images using PlantUML.
 
 ## 🏛️Architecture overview📐
 
